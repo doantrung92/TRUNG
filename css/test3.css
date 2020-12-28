@@ -1,0 +1,17 @@
+img{
+    text-align: left;
+    background-image: url("../img/tam-ly-loai-meo-1.jpg");
+    background-size: contain;
+}
+
+p{
+    text-align: left;
+    width: 800px;
+    font-weight: 400;
+
+}
+
+body{
+    background-color: #fafafa;
+}
+
